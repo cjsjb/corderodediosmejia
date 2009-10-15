@@ -3,9 +3,9 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-%    copyright = "Unknown"
-%    subtitle = "blank"
     title = "Cordero de Dios"
+    composer = "Alejandro Mejía Pereda"
+    copyright = "Copyright (c) 1974 Alejandro Mejía Pereda"
     tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
