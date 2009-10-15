@@ -39,14 +39,14 @@
                 e'' 4. d'' 4 e'' 8  |
 %% 30
                 f'' 4. f'' 8 g'' a''  |
-                bes'' 16[ r g'' r e'' r des'' r e'' r g''] r |
-                a'' 16[ r f'' r d'' r bes' r d'' r f''] r |
-                g'' 16[ r e'' r des'' r a' r des'' r e''] r |
+                bes'' 8-. [ g''-. e''-. des''-. e''-. g''-. ]  |
+                a'' 8-. [ f''-. d''-. bes'-. d''-. f''-. ]  |
+                g'' 8-. [ e''-. des''-. a'-. des''-. e''-. ]  |
                 f'' 4 g'' 8 a'' 4.  |
 %% 35
-                bes'' 16[ r g'' r e'' r des'' r e'' r g''] r  |
-                a'' 16[ r f'' r d'' r bes' r d'' r f''] r  |
-                g'' 16[ r e'' r des'' r a' r des'' r e''] r  |
+                bes'' 8-. [ g''-. e''-. des''-. e''-. g''-. ]  |
+                a'' 8-. [ f''-. d''-. bes'-. d''-. f''-. ]  |
+                g'' 8-. [ e''-. des''-. a'-. des''-. e''-. ]  |
                 d'' 2.  |
                 \bar "|."
             } % Voice
