@@ -12,13 +12,13 @@
                 \time 6/8
                 \clef "treble"
                 \key f \major
-                \stemDown f'' 8 e'' f'' g'' 4. \stemNeutral  |
-                f'' 8 e'' d'' \stemUp e'' 4. \stemNeutral  |
                 f'' 8 e'' f'' g'' 4.  |
-                f'' 8 e'' d'' \stemUp e'' 4. \stemNeutral  |
+                f'' 8 e'' d'' e'' 4.  |
+                f'' 8 e'' f'' g'' 4.  |
+                f'' 8 e'' d'' e'' 4.  |
 %% 5
                 R2.*9  |
-                d'' 4. \stemDown d'' 8 e'' f'' \stemNeutral  |
+                d'' 4. d'' 8 e'' f''  |
 %% 15
                 g'' 2.  |
                 f'' 4. e'' 8 d'' c''  |
@@ -29,10 +29,10 @@
                 g'' 4. f'' 4 e'' 8  |
                 d'' 2.  |
                 r2 r8 d''  |
-                \stemDown d'' 8 a'' g'' a'' 4 \stemNeutral f'' 8  |
+                d'' 8 a'' g'' a'' 4 f'' 8  |
                 g'' 4. d''  |
 %% 25
-                f'' 4 \stemDown f'' 8 e'' d'' c'' \stemNeutral  |
+                f'' 4 f'' 8 e'' d'' c''  |
                 d'' 4. d'' -\fermata  |
                 d'' 4. e'' 4 f'' 8  |
                 g'' 2 r8 r  |
