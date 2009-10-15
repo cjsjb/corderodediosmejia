@@ -42,14 +42,14 @@
                 f' 4 f' 8 e' d' c'  |
                 d' 4. d' -\fermata  |
                 d' 4. e' 4 f' 8  |
-                g' 2 r8 r  |
+                g' 2 r4  |
                 e' 4. f' 4 g' 8  |
 %% 30
-                a' 2 r8 r  |
+                a' 2 r4  |
                 < d' bes' > 4. e'  |
                 < a' f' > 4. < f' d' >  |
                 < g' d' > 4. < f' cis' > 4 < g' cis' > 8  |
-                < a' d' > 2 r8 r  |
+                < a' d' > 2 r4  |
 %% 35
                 < d' bes' > 4. e'  |
                 < a' f' > 4. < f' d' >  |
