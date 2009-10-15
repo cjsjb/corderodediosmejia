@@ -11,7 +11,7 @@
 
                 \time 6/8
                 \clef "treble"
-                \key f \major
+                \key d \minor
                 f'' 8 e'' f'' g'' 4.  |
                 f'' 8 e'' d'' e'' 4.  |
                 f'' 8 e'' f'' g'' 4.  |

@@ -11,7 +11,7 @@
 
                 \time 6/8
                 \clef "treble"
-                \key f \major
+                \key d \minor
                 R2.*3  |
                 r2 r8 d'  |
 %% 5
