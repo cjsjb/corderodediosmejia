@@ -5,7 +5,7 @@
 \header {
     title = "Cordero de Dios"
     composer = "Alejandro Mejía Pereda"
-    copyright = "Copyright (c) 1974 Alejandro Mejía Pereda"
+    copyright = "Copyright © 1974 Alejandro Mejía Pereda"
     tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
