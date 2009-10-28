@@ -15,7 +15,7 @@
                 R2.*3  |
                 r2 r8 d'  |
 %% 5
-                d' 8 a' g' \stemDown a' 4 \stemNeutral f' 8  |
+                d' 8 a' g' a' 4 f' 8  |
                 g' 4. d'  |
                 f' 4 f' 8 e' d' c' |
                 d' 4. d'  |
@@ -25,7 +25,7 @@
                 e' 4 f' 8 g' f' e'  |
                 d' 4. d'  |
                 r2 r8 d'  |
-                d' 8 a' g' \stemUp a' 4 \stemNeutral f' 8  |
+                d' 8 a' g' a' 4 f' 8  |
 %% 15
                 g' 4. d'  |
                 f' 4 f' 8 e' d' c'  |
@@ -36,7 +36,7 @@
                 e' 4 f' 8 g' f' e'  |
                 d' 4. d'  |
                 r2 r8 d'  |
-                d' 8 a' g' \stemUp a' 4 \stemNeutral f' 8  |
+                d' 8 a' g' a' 4 f' 8  |
                 g' 4. d'  |
 %% 25
                 f' 4 f' 8 e' d' c'  |
