@@ -3,10 +3,10 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-    title = "Cordero de Dios"
-    composer = "Alejandro Mejía Pereda"
-    copyright = "Copyright © 1974 Alejandro Mejía Pereda"
-    tagline = "Coro Juvenil San Juan Bosco"
+	title = "Cordero de Dios"
+	composer = "Alejandro Mejía Pereda"
+	copyright = "Copyright © 1974 Alejandro Mejía Pereda"
+	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
@@ -17,11 +17,11 @@
 	first-page-number = 1
 }
 global = {
-    \time 6/8
-    \skip 2.*38  %% 1-38
+	\time 6/8
+	\skip 2.*38  %% 1-38
 }
 globalTempo = {
-    \tempo 4 = 95  \skip 2.*38
+	\tempo 4 = 95  \skip 2.*38
 }
 
 \score {
