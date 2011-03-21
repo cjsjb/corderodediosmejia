@@ -25,16 +25,19 @@ globalTempo = {
 }
 
 \score {
-	\new StaffGroup <<
+	<<
 
 		% force offset of colliding notes in chords:
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "corderodedios2-acordes.inc"
-		\include "corderodedios2-soprano.inc"
-		%\include "corderodedios2-alto.inc"
-		\include "corderodedios2-violin.inc"
-		\include "corderodedios2-flauta.inc"
+		\new StaffGroup <<
+			\include "corderodedios2-soprano.inc"
+		>>
+		\new StaffGroup <<
+			\include "corderodedios2-violin.inc"
+			\include "corderodedios2-flauta.inc"
+		>>
 
 	>> % notes
 
