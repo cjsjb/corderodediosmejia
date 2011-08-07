@@ -40,8 +40,9 @@
 		d' 8 a' g' a' 4 f' 8  |
 		g' 4. d'  |
 %% 25
-		f' 4 f' 8 e' d' c'  |
-		d' 4. d' -\fermata  |
+		\override TextSpanner #'(bound-details left text) = "rit."
+		f' 4 \startTextSpan f' 8 e' d' c'  |
+		d' 4. d' -\fermata \stopTextSpan  |
 		d' 4. e' 4 f' 8  |
 		g' 2 r4  |
 		e' 4. f' 4 g' 8  |
