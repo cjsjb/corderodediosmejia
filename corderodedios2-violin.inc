@@ -49,6 +49,7 @@
 		a' 8-. [ f'-. d'-. bes-. d'-. f'-. ]  |
 		g' 8-. [ e'-. cis'-. a-. cis'-. e'-. ]  |
 		d' 2.  |
+		R2.  |
 		\bar "|."
 	} % Voice
 >> % Staff

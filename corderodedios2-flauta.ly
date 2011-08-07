@@ -19,10 +19,10 @@
 }
 global = {
 	\time 6/8
-	\skip 2.*38  %% 1-38
+	\skip 2.*39  %% 1-39
 }
 globalTempo = {
-	\tempo 4 = 95  \skip 2.*38
+	\tempo 4 = 95  \skip 2.*39
 }
 
 \score {
