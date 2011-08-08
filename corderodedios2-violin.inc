@@ -28,8 +28,8 @@
 		a' 4. d'  |
 %% 20
 		g' 4. f' 4 e' 8  |
-		d' 2.  |
-		r2 r8 d' 8  |
+		d' 2. ~  |
+		d' 4. r4 d' 8  |
 		d' 8 a' g' a' 4 f' 8  |
 		g' 4. d'  |
 %% 25
@@ -37,7 +37,7 @@
 		f' 4 \startTextSpan f' 8 e' d' c'  |
 		d' 4. d' -\fermata \stopTextSpan  |
 		d' 4. e' 4 f' 8  |
-		g' 2 r4  |
+		g' 4. ~ g' 4 r8  |
 		e' 4. d' 4 e' 8  |
 %% 30
 		f' 4. f' 8 g' a'  |
