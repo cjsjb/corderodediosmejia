@@ -44,10 +44,10 @@
 		d' 4 \startTextSpan d' 8 e' d' c'  |
 		a 4. a -\fermata \stopTextSpan  |
 		d' 4. e' 4 f' 8  |
-		e' 4. ( d' )  |
+		e' 4. ( d' 4 ) r8  |
 		cis' 4. d' 4 e' 8  |
 %% 30
-		d' 2.  |
+		d' 2 ~ d' 8 r  |
 		r8 e' ( f' ) g' ( f' e' )  |
 		r8 d' ( e' ) f' ( e' d' )  |
 		r8 cis' ( d' ) e' ( d' ) cis'  |
