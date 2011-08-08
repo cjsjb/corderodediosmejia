@@ -14,18 +14,18 @@
 		\clef "treble"
 		\key d \minor
 		R2.*3  |
-		r2 r8 d'  |
+		r4. r4 d' 8  |
 %% 5
 		d' 8 a' g' a' 4 f' 8  |
 		g' 4. d'  |
-		f' 4 f' 8 e' d' c' |
+		f' 4 f' 8 e' d' c'  |
 		d' 4. d'  |
 		g' 4 a' 8 bes' a' g'  |
 %% 10
 		a' 4. f'  |
 		e' 4 f' 8 g' f' e'  |
-		d' 4. d'  |
-		r2 r8 d'  |
+		d' 4. d' ~  |
+		d' 4. r4 d' 8  |
 		d' 8 a' g' a' 4 f' 8  |
 %% 15
 		g' 4. d'  |
@@ -35,8 +35,8 @@
 		a' 4. f'  |
 %% 20
 		e' 4 f' 8 g' f' e'  |
-		d' 4. d'  |
-		r2 r8 d'  |
+		d' 4. d' ~  |
+		d' 4. r4 d' 8  |
 		d' 8 a' g' a' 4 f' 8  |
 		g' 4. d'  |
 %% 25
@@ -44,17 +44,17 @@
 		f' 4 \startTextSpan f' 8 e' d' c'  |
 		d' 4. d' -\fermata \stopTextSpan  |
 		d' 4. e' 4 f' 8  |
-		g' 2 r4  |
+		g' 2 ~ g' 8 r  |
 		e' 4. f' 4 g' 8  |
 %% 30
-		a' 2 r4  |
+		a' 2 ~ a' 8 r  |
 		bes' 4. e'  |
-		f' 4. d'  |
+		a' 4. d' 4 r8  |
 		g' 4. f' 4 g' 8  |
-		a' 2 r4  |
+		a' 2 ~ a' 8 r  |
 %% 35
 		bes' 4. e'  |
-		f' 4. d'  |
+		a' 4. d' 4 r8  |
 		g' 4. f' 4 e' 8  |
 		fis' 2.  |
 		R2.  |
