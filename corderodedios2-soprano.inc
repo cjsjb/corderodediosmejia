@@ -44,14 +44,14 @@
 		f' 4 \startTextSpan f' 8 e' d' c'  |
 		d' 4. d' -\fermata \stopTextSpan  |
 		d' 4. e' 4 f' 8  |
-		g' 2 ~ g' 8 r  |
+		g' 4. ~ g' 4 r 8  |
 		e' 4. f' 4 g' 8  |
 %% 30
-		a' 2 ~ a' 8 r  |
+		a' 4. ~ a' 4 r 8  |
 		bes' 4. e'  |
 		a' 4. d' 4 r8  |
 		g' 4. f' 4 g' 8  |
-		a' 2 ~ a' 8 r  |
+		a' 4. ~ a' 4 r 8  |
 %% 35
 		bes' 4. e'  |
 		a' 4. d' 4 r8  |
