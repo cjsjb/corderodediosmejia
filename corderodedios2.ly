@@ -34,10 +34,8 @@ globalTempo = {
 		\new StaffGroup <<
 			\include "corderodedios2-soprano.inc"
 		>>
-		\new StaffGroup <<
-			\include "corderodedios2-violin.inc"
-			\include "corderodedios2-flauta.inc"
-		>>
+		\include "corderodedios2-violin.inc"
+		\include "corderodedios2-flauta.inc"
 
 	>> % notes
 
