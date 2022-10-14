@@ -6,7 +6,7 @@
 	\new Voice \global
 	\new Voice \globalTempo
 
-	\context Voice = "soprano" {
+	\context Voice = "voz-soprano" {
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
@@ -61,7 +61,7 @@
 		\bar "|."
 		} % Voice
 
-	\lyricsto "soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		% "cordero de dios que quitas..."
 		"Cor" -- "de" -- "ro" "de" "Dios," "que" "qui" -- "tas"
 		"el" "pe" -- "ca" -- "do" "del" "mun" -- "do,"
