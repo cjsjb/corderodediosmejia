@@ -44,7 +44,7 @@
 		\override TextSpanner #'(bound-details left text) = "rit."
 		f 4 \startTextSpan f 8 e d c  |
 		d 4. d -\fermata \stopTextSpan  |
-                d 4. e 4 f 8  |
+		d 4. e 4 f 8  |
 		g 4. ~ g 4 r8  |
 		e 4. f 4 g 8  |
 %% 30
@@ -60,26 +60,25 @@
 		d' 2.  |
 		R2.  |
 		\bar "|."
-		} % Voice
+	}
 
 	\new Lyrics \lyricsto "voz-tenor" {
-		% "cordero de dios que quitas..."
 		"Cor" -- "de" -- "ro" "de" "Dios," "que" "qui" -- "tas"
 		"el" "pe" -- "ca" -- "do" "del" "mun" -- "do,"
 		"ten" "pie" -- "dad" "de" "no" -- "so" -- "tros,"
 		"ten" "pie" -- "dad" "de" "no" -- "so" -- "tros." __
-		% "cordero de dios que quitas..."
+
 		"Cor" -- "de" -- "ro" "de" "Dios," "que" "qui" -- "tas"
 		"el" "pe" -- "ca" -- "do" "del" "mun" -- "do,"
 		"ten" "pie" -- "dad" "de" "no" -- "so" -- "tros,"
 		"ten" "pie" -- "dad" "de" "no" -- "so" -- "tros." __
-		% "cordero de dios que quitas..."
+
 		"Cor" -- "de" -- "ro" "de" "Dios," "que" "qui" -- "tas"
 		"el" "pe" -- "ca" -- "do" "del" "mun" -- "do..."
-		% "danos la paz..."
+
 		"Da" -- "nos" "la" "paz," "da" -- "nos" "la" "paz."
 		"Da" -- "nos," __ "da" -- "nos," "da" -- "nos" "la" "paz."
 		"Da" -- "nos," __ "da" -- "nos," "da" -- "nos" "la" "paz."
-	} % Lyrics
+	}
+>>
 
->> % Staff

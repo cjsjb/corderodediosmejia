@@ -59,26 +59,24 @@
 		fis' 2.  |
 		R2.  |
 		\bar "|."
-		} % Voice
+	}
 
 	\new Lyrics \lyricsto "voz-soprano" {
-		% "cordero de dios que quitas..."
 		"Cor" -- "de" -- "ro" "de" "Dios," "que" "qui" -- "tas"
 		"el" "pe" -- "ca" -- "do" "del" "mun" -- "do,"
 		"ten" "pie" -- "dad" "de" "no" -- "so" -- "tros,"
 		"ten" "pie" -- "dad" "de" "no" -- "so" -- "tros." __
-		% "cordero de dios que quitas..."
+
 		"Cor" -- "de" -- "ro" "de" "Dios," "que" "qui" -- "tas"
 		"el" "pe" -- "ca" -- "do" "del" "mun" -- "do,"
 		"ten" "pie" -- "dad" "de" "no" -- "so" -- "tros,"
 		"ten" "pie" -- "dad" "de" "no" -- "so" -- "tros." __
-		% "cordero de dios que quitas..."
+
 		"Cor" -- "de" -- "ro" "de" "Dios," "que" "qui" -- "tas"
 		"el" "pe" -- "ca" -- "do" "del" "mun" -- "do..."
-		% "danos la paz..."
+
 		"Da" -- "nos" "la" "paz," "da" -- "nos" "la" "paz."
 		"Da" -- "nos," "da" -- "nos," "da" -- "nos" "la" "paz."
 		"Da" -- "nos," "da" -- "nos," "da" -- "nos" "la" "paz."
-	} % Lyrics
-
->> % Staff
+	}
+>>
