@@ -11,6 +11,8 @@
 		\override MultiMeasureRest #'expand-limit = 1
 		\override TextSpanner #'(bound-details left text) = "rit."
 
+		$(let ((val (ly:parser-lookup 'easy))) (if (null? val) #{ #} val))
+
 		\time 6/8
 		\clef "treble"
 		\key d \minor
