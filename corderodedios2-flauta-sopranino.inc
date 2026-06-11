@@ -1,0 +1,61 @@
+\context Staff = "track 5" <<
+	\set Staff.instrumentName = "Flauta sopranino"
+	\set Staff.shortInstrumentName = "F.s"
+	\set Score.skipBars = ##t
+	\set Staff.printKeyCancellation = ##f
+	\new Voice \global
+	\new Voice \globalTempo
+
+	\context Voice = "voz-sopranino" {
+		\override Voice.TextScript #'padding = #2.0
+		\override MultiMeasureRest #'expand-limit = 1
+
+		$(let ((val (ly:parser-lookup 'easy))) (if (null? val) #{ #} val))
+
+		\time 6/8
+		\clef "treble"
+
+		\transpose f c' {
+		\key d \minor
+		f' 8 e' f' g' 4.  |
+		f' 8 e' d' e' 4.  |
+		f' 8 e' f' g' 4.  |
+		f' 8 e' d' e' 4.  |
+%% 5
+		R2.*9  |
+		d' 4. d' 8 e' f'  |
+%% 15
+		g' 2.  |
+		f' 4. e' 8 d' c'  |
+		d' 2.  |
+		bes' 4. e'  |
+		a' 4. d'  |
+%% 20
+		g' 4. f' 4 e' 8  |
+		d' 2. ~  |
+		d' 4. r4 d' 8  |
+		d' 8 a' g' a' 4 f' 8  |
+		g' 4. d'  |
+%% 25
+		\override TextSpanner #'(bound-details left text) = "rit."
+		f' 4 \startTextSpan f' 8 e' d' c'  |
+		d' 4. d' -\fermata \stopTextSpan  |
+		d' 4. e' 4 f' 8  |
+		g' 4. ~ g' 4 r8  |
+		e' 4. d' 4 e' 8  |
+%% 30
+		f' 4. f' 8 g' a'  |
+		bes' 8 g' e' cis' e' g'  |
+		a' 8 f' d' bes d' f'  |
+		g' 8 e' cis' a cis' e'  |
+		f' 4 g' 8 a' 4.  |
+%% 35
+		bes' 8 g' e' cis' e' g'  |
+		a' 8 f' d' bes d' f'  |
+		g' 8 e' cis' a cis' e'  |
+		d' 2.  |
+		R2.*2  |
+		}
+		\bar "|."
+	}
+>>
